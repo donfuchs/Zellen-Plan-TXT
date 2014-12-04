@@ -1,18 +1,19 @@
 Grundversorgung:
+-Einkauf
 -Kochen
 -Fahrer
--Einkauf
 -Verwaltung
+-Lagerverwaltung
+-Fitness/Gesundheit
 -Landwirtschaft
+-IT
+
 -Bau
 -Holzbearbeitung
 -Maschienenbau
-
--Dokumentation
 -Elektronik
 
--IT
+
+-Dokumentation
 -Recht/Jura
--Lagerverwaltung
--Fitness/Gesundheit
 -Vertrieb/Werbung
