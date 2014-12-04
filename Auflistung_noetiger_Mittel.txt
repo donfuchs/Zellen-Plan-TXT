@@ -41,6 +41,13 @@ IT-/Elektro-Werksatt
 
 -Sport und Fitness möglichkeiten
 
+-Wäscherei
+	-Waschmaschienen
+	-Trockner
+	-Bügeleisen
+	-Mangel
+	-Waschmittel
+
 -Kantine
 	-Kücheneinrichtung
 		-Kochgeschirr
