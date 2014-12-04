@@ -1,7 +1,11 @@
 -Immobilien
 	-Wohnraum
-	-Agrarfläche
+		-2,5 Zimmer für 1-Personen-Haushalt +1 Zimmer pro Weiterer Person
+		
+	-Agrarfläche		
 	-Lagerfläche
+		-für Versorgungsgüter
+		-für Baumaterialien
 
 -Stromversorgung
 	-Solar
@@ -39,5 +43,20 @@ IT-/Elektro-Werksatt
 
 -Kantine
 	-Kücheneinrichtung
+		-Kochgeschirr
+		-Kochflächen
+		-Küchenschränke
+		-Arbeitsplatten
+		-Kühlung
+
 	-Essbereich
+		-Tische
+		-Stühle
+		-Trennwände
+		-Tischdecken
+		-Bänke
+	
 	-Ausgabebereich
+		-Geschirr/Besteck
+		-Tresen
+	
