@@ -2,22 +2,54 @@ Versorgung Basis:
 -Einkauf
 -Kochen
 -Fahrer
+-Fahrzeugmechaniker
 -Lagerverwaltung
--Fitness/Gesundheit
 -Landwirtschaft
 -IT
+-Versorgungstechnik/Gebäude
 
 Versorgung erweitert:
+-Fitness/Gesundheit
+ -Fitnesstrainer
+ -Ergotherapeut
+ -Physiotherapeut
+ -Masseur
+ -Allgemeinmediziner
+
 -Bau
+ -Architekt
+ -Fachingenieur
+ -Heizungsinstallateur
+ -Gebäudeautomation
+ 
 -Holzbearbeitung
--Maschienenbau
--Elektronik
+ -Schreiner/Tischler
+ -Zimmermann
+ -Drechsler
+
+-Metallverarbeitung
+ -Bauschlosser
+ -Kfz-Schlosser
+
+-Maschinenbau
+ -Ingenieur 
+ -Techniker 
+ -Facharbeiter
+
+-Elektrontechnik
+ -Ingenieur 
+ -Techniker 
+ -Facharbeiter  
+
 
 Distribution:
 -Vertrieb/Werbung
 -Verwaltung 
+ -Buchhaltung
+ 
 
 Sonstige:
 -Dokumentation
 -Recht/Jura
-
+ -Steuerrecht
+ -Arbeitsrecht
