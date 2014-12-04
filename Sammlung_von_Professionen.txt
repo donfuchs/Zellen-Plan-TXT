@@ -1,4 +1,4 @@
-Grundversorgung:
+Versorgung Basis:
 -Einkauf
 -Kochen
 -Fahrer
@@ -8,12 +8,13 @@ Grundversorgung:
 -Landwirtschaft
 -IT
 
+Versorgung erweitert:
 -Bau
 -Holzbearbeitung
 -Maschienenbau
 -Elektronik
 
-
+Sonstige:
 -Dokumentation
 -Recht/Jura
 -Vertrieb/Werbung
