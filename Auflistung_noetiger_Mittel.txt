@@ -1,17 +1,62 @@
--Wohnraum
--Agrarfläche
+-Immobilien
+	-Wohnraum
+		-2,5 Zimmer für 1-Personen-Haushalt +1 Zimmer pro Weiterer Person
+		
+	-Agrarfläche		
+	-Lagerfläche
+		-für Versorgungsgüter
+		-für Baumaterialien
+
 -Stromversorgung
+	-Solar
+	-Windkraft
+	-Erdwärme
+
 -Medizienische Versorgung
+	-Krankenkasse ca.160€ pro Person pro Monat
+
 -Wasser/Abwasser
 -Wärme
 -Gas?
 -Lebensmittel
+
 -Fahrzeuge
+	-Alles Elektrisch
+	-Pkws und Nutzfahrzeuge
+	-Parkplätze
+
 -Internet
--Lagerfläche
--3d-Drucker
--CnC-Fräse
--Parkplatz
+
 -E-KFZ Bereich/Werkstatt
+
+-Holzwerkstatt
+	-CnC-Fräse
+
+-Metallwerkstatt
+
+IT-/Elektro-Werksatt
+	-3d-Drucker
+
 -Konferenz-/Schulungsbereich
+
 -Sport und Fitness möglichkeiten
+
+-Kantine
+	-Kücheneinrichtung
+		-Kochgeschirr
+		-Kochflächen
+		-Küchenschränke
+		-Arbeitsplatten
+		-Kühlung
+
+	-Essbereich
+		-Tische
+		-Stühle
+		-Trennwände
+		-Tischdecken
+		-Bänke
+	
+	-Ausgabebereich
+		-Geschirr/Besteck
+		-Tresen
+	
