@@ -2,7 +2,6 @@ Versorgung Basis:
 -Einkauf
 -Kochen
 -Fahrer
--Verwaltung
 -Lagerverwaltung
 -Fitness/Gesundheit
 -Landwirtschaft
@@ -14,7 +13,11 @@ Versorgung erweitert:
 -Maschienenbau
 -Elektronik
 
+Distribution:
+-Vertrieb/Werbung
+-Verwaltung 
+
 Sonstige:
 -Dokumentation
 -Recht/Jura
--Vertrieb/Werbung
+
