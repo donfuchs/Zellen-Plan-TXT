@@ -5,12 +5,12 @@ Grundversorgung:
 -Verwaltung
 -Landwirtschaft
 -Bau
--Dokumentation
+-Holzbearbeitung
 -Maschienenbau
 
-
+-Dokumentation
 -Elektronik
--Holzbearbeitung
+
 -IT
 -Recht/Jura
 -Lagerverwaltung
